@@ -1,0 +1,1 @@
+In line 12 with the command 'C MOVIE_DB;' if you want to run it from terminal or cmd you should run '\c MOVIE_DB'
