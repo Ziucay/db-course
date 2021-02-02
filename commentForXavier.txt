@@ -1,1 +1,2 @@
-In line 12 with the command 'C MOVIE_DB;' if you want to run it from terminal or cmd you should run '\c MOVIE_DB'
+In line 12 with the command 'C MOVIE_DB;' if you want to run it from terminal or cmd you should run '\c MOVIE_DB'. (psql case)
+If you are using pgAdmin, then after creating database you should select MOVIE_DB (left click) and use Query Tool. Also you can right click MOVIE_DB and select Query tool. After that just paste the rest and execute the query.
